@@ -1,0 +1,5 @@
+setup.py
+tollefConllConverter.egg-info/PKG-INFO
+tollefConllConverter.egg-info/SOURCES.txt
+tollefConllConverter.egg-info/dependency_links.txt
+tollefConllConverter.egg-info/top_level.txt
